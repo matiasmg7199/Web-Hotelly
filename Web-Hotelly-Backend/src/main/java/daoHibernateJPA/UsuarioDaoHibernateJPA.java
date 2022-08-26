@@ -1,2 +1,4 @@
-package daoHibernateJPA;public class UsuarioDaoHibernateJPA {
+package daoHibernateJPA;
+
+public class UsuarioDaoHibernateJPA {
 }
