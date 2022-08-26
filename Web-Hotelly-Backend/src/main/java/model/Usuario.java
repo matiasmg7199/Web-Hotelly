@@ -1,2 +1,4 @@
-package model;public class Usuario {
+package model;
+
+public class Usuario {
 }
